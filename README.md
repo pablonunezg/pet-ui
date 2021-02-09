@@ -16,6 +16,7 @@ Auto Rename Tag
 Debugger for Chrome
 Path Intellisense
 HTML CSS Support
+CSS Peek
 
 ## Available Scripts
 

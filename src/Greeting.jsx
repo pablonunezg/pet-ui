@@ -1,8 +1,18 @@
 import React from "react";
+import PropTypes from "prop-types";
 
-function Greeting() {
-  const a = "asas";
-  return <div>{a}</div>;
-}
+const Greeting = ({title}) => (
+    <div>
+      {title}
+    </div>
+  );
+
+Greeting.propTypes = {
+  title: PropTypes.string
+};
+
+Greeting.defaultProps = {
+  title: "Holas"
+};
 
 export default Greeting;
