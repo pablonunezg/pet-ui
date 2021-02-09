@@ -1,8 +1,9 @@
+import "./App.scss";
 import React from "react";
 import PropTypes from "prop-types";
 
 const Greeting = ({title}) => (
-    <div>
+    <div className = "App">
       {title}
     </div>
   );
