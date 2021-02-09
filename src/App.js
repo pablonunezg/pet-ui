@@ -1,11 +1,11 @@
-import './App.css';
+import "./App.css";
+import React from "react";
 
 function App() {
-  return (
-    <div className="App">
-      Hello World
-    </div>
-  );
+  const aa = "Hello";
+  const vv = "World1";
+
+  return <div className="App">{`${aa} - ${vv}`}</div>;
 }
 
 export default App;
