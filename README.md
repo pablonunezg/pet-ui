@@ -3,8 +3,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Plugins
+
 Eslint
-Prettier  (Configure editor.formatOnSave to true)
+Prettier (Configure editor.formatOnSave to true)
+Auto Import
+Auto Close Tag
+Import Cost
+Highlight Matching Tag
+Bracket Pair Colorizer 2
+Auto Rename Tag
+Debugger for Chrome
 
 ## Available Scripts
 
