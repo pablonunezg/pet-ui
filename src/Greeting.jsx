@@ -1,8 +1,8 @@
 import React from "react";
 
 function Greeting() {
-  const a = "holass";
-  return <h6>{a}</h6>;
+  const a = "asas";
+  return <div>{a}</div>;
 }
 
 export default Greeting;

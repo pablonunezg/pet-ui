@@ -6,13 +6,10 @@
     "prettier",
     "prettier/react"
   ],
-  "plugins": [
-    "jsx-a11y",
-    "prettier"
-  ],
+  "plugins": ["jsx-a11y", "prettier"],
   "rules": {
     "semi": [2, "always"],
+    "quotes": [2, "double"],
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
   }
 }
-

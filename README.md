@@ -4,8 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Plugins
 
+ES7 React/Redux/GraphQL/React-Native snippets
 Eslint
-Prettier (Configure editor.formatOnSave to true)
+Prettier
 Auto Import
 Auto Close Tag
 Import Cost
@@ -13,6 +14,8 @@ Highlight Matching Tag
 Bracket Pair Colorizer 2
 Auto Rename Tag
 Debugger for Chrome
+Path Intellisense
+HTML CSS Support
 
 ## Available Scripts
 
